@@ -1,0 +1,2 @@
+[2019-10-24 15:28:50] layer "Sound_On.png": Duplicate path: Sound_On.png
+[2019-10-24 15:28:50] layer "Sound_Off.png": Duplicate path: Sound_Off.png
